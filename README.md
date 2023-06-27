@@ -1,0 +1,1 @@
+# DiscordRPC_Static_Lib
